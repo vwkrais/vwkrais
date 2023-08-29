@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Volker
+😊 am just getting started with coding
+💥 actually today is my first day in coding bootcamp
+🎉 Excited to enter this new world
+🔦 Let's see where this road will lead until the end of 2023
+
 <!--
 **vwkrais/vwkrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
