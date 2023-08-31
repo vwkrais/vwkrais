@@ -2,7 +2,7 @@
 
 I'm Volker <br>
 😊 am just getting started with coding <br>
-💥 actually today is my first day in coding bootcamp <br>
+💥 actually on Aug 28 was my first day in coding bootcamp <br>
 🎉 Excited to enter this new world <br>
 🔦 Let's see where this road will lead until the end of 2023 <br>
 
